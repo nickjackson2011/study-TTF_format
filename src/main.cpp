@@ -38,7 +38,7 @@ int main() {
 	size_t ttf_size;
 	setlocale(LC_CTYPE, "");
 
-	if (loadFile(">>>>>>>>>>>>> TTF FILE PATH <<<<<<<<<<<<<<<", &ttf, &ttf_size) < 0) {
+	if (loadFile("H:/GitHub/analyze-TTF/misaki_gothic.ttf", &ttf, &ttf_size) < 0) {
 		return -1;
 	}
 

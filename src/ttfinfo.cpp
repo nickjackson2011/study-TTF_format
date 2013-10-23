@@ -1,5 +1,5 @@
 ﻿
-#include "ttfinfo.h"
+#include <ttfinfo.h>
 #include <stdio.h>
 #include <stdlib.h>
 #include <memory.h>

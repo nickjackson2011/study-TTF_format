@@ -27,7 +27,7 @@
 #ifndef INCLUDED_TTFINFO_H
 #define INCLUDED_TTFINFO_H
 
-#define TTFINFO_DEBUG
+//#define TTFINFO_DEBUG
 
 #include <stdint.h>
 
